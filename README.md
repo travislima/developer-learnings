@@ -1,0 +1,3 @@
+# developer-learnings
+
+Recordings of my developer journey. To be updated...
